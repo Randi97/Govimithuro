@@ -5,7 +5,5 @@ Application aims to minimize the wastage of cultivated crops by creating a mediu
  
 Technologies/Resources Used in the Application 
  
-Front End -Android Studio 3.3/ 
-IntelliJ IDEA2018.2.4x64 Language-Java 1.8
-Back End -Firebase/Firestore Language-No SQL/JQuery 
+Front End -Android Studio 3.3/                                                                                                             IntelliJ IDEA2018.2.4x64 Language-Java 1.8                                                                                                  Back End -Firebase/Firestore Language-No SQL/JQuery 
 Android Device with API Level 15 and Android Version greater than 4.4(KitKat) 
